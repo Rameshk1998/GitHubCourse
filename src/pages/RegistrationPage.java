@@ -6,6 +6,7 @@ public class RegistrationPage {
 
 		int i = 10;
 		String city = "Hyd";
+		int age = 25;
 	}
 
 }
