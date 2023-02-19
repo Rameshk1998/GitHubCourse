@@ -7,5 +7,6 @@ public class SearchPage {
 		System.out.println("Add the product");
 		
 		int i=1;
+		String s= "name";
 	}
 }
