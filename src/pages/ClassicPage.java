@@ -21,5 +21,9 @@ public class ClassicPage {
 			public static void main(String[] args) {
 				System.out.println("Hi Stash");
 			}
+			
+			public void use() {
+				System.out.println("Use");
+			}
 
 }
