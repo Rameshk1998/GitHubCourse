@@ -11,6 +11,8 @@ public class ClassicPage {
 		System.out.println(div);
 		
 		System.out.println("Classic Page");
+		
+		int sal = 12000;
 	}
 
 }
