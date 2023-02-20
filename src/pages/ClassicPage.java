@@ -11,6 +11,7 @@ public class ClassicPage {
 		System.out.println(div);
 		
 		System.out.println("Classic Page");
+		int h=15;
 
 		int age = 25;
 		int sal = 13000;
