@@ -15,7 +15,7 @@ public class ClassicPage {
 
 		int age = 25;
 		int sal = 13000;
-		
+		String country = "India";
 	}
 		
 			public static void main(String[] args) {
